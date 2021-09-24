@@ -1,26 +1,13 @@
-### Hi there 👋
+## Erick S. Escalante Olano
 
-<a href="#" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olanaso&hide=c&title_color=f69673&text_color=8a919a&icon_color=1b93c9&bg_color=22272e" alt="yunica Stats" />
-</a>
+[![GitHub Badge](https://img.shields.io/github/followers/olanaso?style=social)](https://github.com/olanaso?tab=followers)    
 
-<a href="#" >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=olanaso&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&text_color=8a919a&show_owner=true&bg_color=22272e" alt="yunica Stats" /></a>
+[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCdpgazzn4CQQmusm2XIHFlw)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/erick-escalante-olano-b2654332/)
 
+My name is Erick, I am a systems engineer, I have an MBA from [USMP](http://www.administracion.usmp.edu.pe/postgrado/maestrias/maestria-en-administracion-de-negocios-mba/) and a [master's degree in TIG from UNFV](http://www.unfv.edu.pe/eupg/index.php/maestrias/ingenieria-arquitectura-y-ciencias-basicas/tecnologia-de-informacion-geografica). Have been working in the government of my country, in some entities that handle multipurpose cadastre such as MTC, MIDAGRI and also the private sector. My research interests include geographic information science (GIS), remote sensing, and machine learning (deep learning). I like to program and teach how to create maps and in my spare time I try to support some OpenSource projects such as OpenUBL, among others.
 
-<!--
-**olanaso/olanaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=olanaso&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olanaso&langs_count=3&hide=javascript,go,html,css,tex)
