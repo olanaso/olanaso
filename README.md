@@ -1,9 +1,19 @@
 ### Hi there 👋
 
+<a href="#" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunica&hide=c&title_color=f69673&text_color=8a919a&icon_color=1b93c9&bg_color=22272e" alt="yunica Stats" />
+</a>
+
+<a href="#" >
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunica&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&text_color=8a919a&show_owner=true&bg_color=22272e" alt="yunica Stats" /></a>
+
+
 <!--
 **olanaso/olanaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
