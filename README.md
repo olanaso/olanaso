@@ -11,4 +11,4 @@ My name is Erick, I am a systems engineer, I have studies of an [MBA - USMP](htt
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=olanaso&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olanaso&langs_count=6&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olanaso&langs_count=7&hide=html)
