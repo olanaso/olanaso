@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "puntos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "CineMark", "foto": "https://olanaso.github.io/olanaso/cinemark.png" }, "geometry": { "type": "Point", "coordinates": [ -76.975728693982148, -12.084927240446033 ] } },
+{ "type": "Feature", "properties": { "id": 2, "name": "Claro", "foto": "https://olanaso.github.io/olanaso/claro.png" }, "geometry": { "type": "Point", "coordinates": [ -76.976746926128044, -12.08474215162976 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "Interbank", "foto": "https://olanaso.github.io/olanaso/interbank.png" }, "geometry": { "type": "Point", "coordinates": [ -76.976464963954967, -12.084957769762109 ] } },
+{ "type": "Feature", "properties": { "id": 4, "name": "Tottus", "foto": "https://olanaso.github.io/olanaso/tottus.png" }, "geometry": { "type": "Point", "coordinates": [ -76.979170853044408, -12.085670178389844 ] } },
+{ "type": "Feature", "properties": { "id": 6, "name": "Renzo Costa", "foto": "https://olanaso.github.io/olanaso/renzocosta.png" }, "geometry": { "type": "Point", "coordinates": [ -76.976143511281535, -12.086337567847089 ] } },
+{ "type": "Feature", "properties": { "id": 7, "name": "Zara", "foto": "https://olanaso.github.io/olanaso/zara.png" }, "geometry": { "type": "Point", "coordinates": [ -76.97649813597539, -12.086182765085407 ] } },
+{ "type": "Feature", "properties": { "id": 9, "name": "MAC", "foto": "https://olanaso.github.io/olanaso/mac.png" }, "geometry": { "type": "Point", "coordinates": [ -76.975657778126234, -12.086264905326294 ] } },
+{ "type": "Feature", "properties": { "id": 10, "name": "Entel", "foto": "https://olanaso.github.io/olanaso/entel.png" }, "geometry": { "type": "Point", "coordinates": [ -76.975631714395959, -12.086702460071052 ] } },
+{ "type": "Feature", "properties": { "id": 11, "name": "Adidas", "foto": "https://olanaso.github.io/olanaso/adidas.png" }, "geometry": { "type": "Point", "coordinates": [ -76.975969358174595, -12.08711039694048 ] } },
+{ "type": "Feature", "properties": { "id": 12, "name": "KFC", "foto": "https://olanaso.github.io/olanaso/kfc.png" }, "geometry": { "type": "Point", "coordinates": [ -76.976698747717549, -12.086643224320408 ] } },
+{ "type": "Feature", "properties": { "id": 14, "name": "Bembos", "foto": "https://olanaso.github.io/olanaso/bembos.png" }, "geometry": { "type": "Point", "coordinates": [ -76.976979920080595, -12.086829619482431 ] } }
+]
+}
